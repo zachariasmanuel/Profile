@@ -7,6 +7,7 @@ body {
   background: #fff;
 }
 
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -21,6 +22,10 @@ a:hover {
 h1, h2, h3, h4, h5 {
   color: #000;
   font-family: "Playfair Display", times, serif;
+}
+
+.main-page-link {
+  color: #585858;
 }
 
 .btn, .form-control {
